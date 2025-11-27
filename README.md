@@ -1,4 +1,4 @@
-# first-repo--
-# dt: 25-11-2025
-This is my first "repo" I don't know how to use it.
-I hope I will be going a good job in making this work
+# Fake Headline Generator
+This is my first Project that I have done with the help if a tutorial that I found in Youtube.
+In this, you can generate a fake headline for fun.
+In this project, I have used random, tkinter modules.
